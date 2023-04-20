@@ -1,0 +1,2 @@
+A collection of CSS and JS frameworks distributed by awesome on github.
+You can access the readme file by accessing css-and-javascript-frameworks-collection.github.io/readme.md.
