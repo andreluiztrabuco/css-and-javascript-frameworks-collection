@@ -1465,6 +1465,6 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
 # JS & CSS (Jose Ernesto Martins & me)
   
-[**goglescript.js**] https://joseernestoongithub.github.io/cdn.goglescript.net/goglescript.js
+<a href="https://joseernestoongithub.github.io/cdn.goglescript.net/goglescript.js">goglescript.js</a>
   <br>
-[**blue.css**] https://download848.mediafire.com/3rhb6owgcdegdkaYJMo5GlXk6JqXXICjUpiDDnmNEHqvdPYf4qVIMS3aUbdxYRMN_iSDg6-hbHOMaspvrPTgVzVBhVWtf3s/k7x4l8ertbik3mz/blue.min.css
+<a href="https://download848.mediafire.com/3rhb6owgcdegdkaYJMo5GlXk6JqXXICjUpiDDnmNEHqvdPYf4qVIMS3aUbdxYRMN_iSDg6-hbHOMaspvrPTgVzVBhVWtf3s/k7x4l8ertbik3mz/blue.min.css">blue.css</a>
