@@ -1463,3 +1463,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
+# JS & CSS (Jose Ernesto Martins & me)
+  
+ * GogleScript - https://joseernestoongithub.github.io/cdn.goglescript.net/goglescript.js
+  * blue.css - https://download848.mediafire.com/3rhb6owgcdegdkaYJMo5GlXk6JqXXICjUpiDDnmNEHqvdPYf4qVIMS3aUbdxYRMN_iSDg6-hbHOMaspvrPTgVzVBhVWtf3s/k7x4l8ertbik3mz/blue.min.css
